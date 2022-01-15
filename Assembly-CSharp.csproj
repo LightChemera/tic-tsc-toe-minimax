@@ -94,10 +94,11 @@
     <Compile Include="Assets\_Scripts\MainScripts\Easy.cs" />
     <Compile Include="Assets\_Scripts\MainScripts\Hard.cs" />
     <Compile Include="Assets\_Scripts\MainScripts\TwoPlayersLogic.cs" />
-    <Compile Include="Assets\_Scripts\SubScripts\SceneManage\CloseGame.cs" />
     <Compile Include="Assets\_Scripts\SubScripts\SceneManage\Home.cs" />
     <Compile Include="Assets\_Scripts\SubScripts\SceneManage\Restart.cs" />
     <Compile Include="Assets\_Scripts\SubScripts\SceneManage\SrartGame.cs" />
+    <Compile Include="Assets\_Scripts\SubScripts\SettingsScripts\CloseGame.cs" />
+    <Compile Include="Assets\_Scripts\SubScripts\SettingsScripts\Sound.cs" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />

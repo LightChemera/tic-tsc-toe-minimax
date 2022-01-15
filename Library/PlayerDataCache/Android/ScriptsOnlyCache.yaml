@@ -6,6 +6,7 @@ ScriptsOnlyBuild:
     - Hard
     - Home
     - Restart
+    - Sound
     - SrartGame
     - TwoPlayersLogic
     Unity.2D.Animation.Editor.dll:
@@ -54,28 +55,32 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11320}
+      Script: {instanceID: 11322}
     - Class: 114
-      Script: {instanceID: 11422}
+      Script: {instanceID: 11424}
     - Class: 114
-      Script: {instanceID: 11626}
+      Script: {instanceID: 11628}
     - Class: 114
-      Script: {instanceID: 11682}
+      Script: {instanceID: 11684}
     - Class: 114
-      Script: {instanceID: 12384}
+      Script: {instanceID: 12386}
     - Class: 114
-      Script: {instanceID: 13154}
+      Script: {instanceID: 13156}
     - Class: 114
-      Script: {instanceID: 13992}
+      Script: {instanceID: 13996}
     - Class: 114
-      Script: {instanceID: 14596}
+      Script: {instanceID: 14600}
     - Class: 114
-      Script: {instanceID: 14656}
+      Script: {instanceID: 14660}
     - Class: 114
-      Script: {instanceID: 14678}
+      Script: {instanceID: 14682}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -107,28 +112,32 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11320}
+      Script: {instanceID: 11322}
     - Class: 114
-      Script: {instanceID: 11422}
+      Script: {instanceID: 11424}
     - Class: 114
-      Script: {instanceID: 11626}
+      Script: {instanceID: 11628}
     - Class: 114
-      Script: {instanceID: 11682}
+      Script: {instanceID: 11684}
     - Class: 114
-      Script: {instanceID: 12384}
+      Script: {instanceID: 12386}
     - Class: 114
-      Script: {instanceID: 12768}
+      Script: {instanceID: 12770}
     - Class: 114
-      Script: {instanceID: 13154}
+      Script: {instanceID: 13156}
     - Class: 114
-      Script: {instanceID: 13992}
+      Script: {instanceID: 13996}
     - Class: 114
-      Script: {instanceID: 14656}
+      Script: {instanceID: 14660}
     - Class: 114
-      Script: {instanceID: 14678}
+      Script: {instanceID: 14682}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -163,27 +172,27 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11320}
+      Script: {instanceID: 11322}
     - Class: 114
-      Script: {instanceID: 11422}
+      Script: {instanceID: 11424}
     - Class: 114
-      Script: {instanceID: 11626}
+      Script: {instanceID: 11628}
     - Class: 114
-      Script: {instanceID: 11682}
+      Script: {instanceID: 11684}
     - Class: 114
-      Script: {instanceID: 12384}
+      Script: {instanceID: 12386}
     - Class: 114
-      Script: {instanceID: 12944}
+      Script: {instanceID: 12946}
     - Class: 114
-      Script: {instanceID: 13154}
+      Script: {instanceID: 13156}
     - Class: 114
-      Script: {instanceID: 13992}
+      Script: {instanceID: 13996}
     - Class: 114
-      Script: {instanceID: 14656}
+      Script: {instanceID: 14660}
     - Class: 114
-      Script: {instanceID: 14678}
+      Script: {instanceID: 14682}
     - Class: 114
-      Script: {instanceID: 26230}
+      Script: {instanceID: 18626}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -217,36 +226,42 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11320}
+      Script: {instanceID: 11318}
     - Class: 114
-      Script: {instanceID: 11626}
+      Script: {instanceID: 11322}
     - Class: 114
-      Script: {instanceID: 11682}
+      Script: {instanceID: 11628}
     - Class: 114
-      Script: {instanceID: 12384}
+      Script: {instanceID: 11684}
     - Class: 114
-      Script: {instanceID: 12442}
+      Script: {instanceID: 12386}
     - Class: 114
-      Script: {instanceID: 13154}
+      Script: {instanceID: 12444}
     - Class: 114
-      Script: {instanceID: 13288}
+      Script: {instanceID: 13156}
     - Class: 114
-      Script: {instanceID: 13524}
+      Script: {instanceID: 13290}
     - Class: 114
-      Script: {instanceID: 13544}
+      Script: {instanceID: 13526}
     - Class: 114
-      Script: {instanceID: 13992}
+      Script: {instanceID: 13546}
     - Class: 114
-      Script: {instanceID: 14300}
+      Script: {instanceID: 13668}
     - Class: 114
-      Script: {instanceID: 14484}
+      Script: {instanceID: 13996}
     - Class: 114
-      Script: {instanceID: 14678}
+      Script: {instanceID: 14304}
     - Class: 114
-      Script: {instanceID: 48722}
+      Script: {instanceID: 14488}
+    - Class: 114
+      Script: {instanceID: 14682}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -264,6 +279,12 @@ ScriptsOnlyBuild:
     - Class: 224
       Script: {instanceID: 0}
   scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: 55be0587f2c66680a433b80bce42279b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Sound
   - hash:
       serializedVersion: 2
       Hash: 4bc4346a71a8df53a6b106f68ef3a190
@@ -747,6 +768,12 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CloseGame
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.Notifications.iOS.dll
     namespaceName: Unity.Notifications.iOS
     className: iOSNotificationsWrapper
@@ -1002,12 +1029,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: CloseGame
   platform: 13
   scenePathNames:
   - Assets/Scenes/_Menu.unity
